@@ -1,0 +1,2 @@
+Joystick implementation comes from binding the keys from a joystick to that of direction arrow keys(left, right, up, down) and 
+speed (1, 2, 3, 4)
