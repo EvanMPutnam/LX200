@@ -1,7 +1,7 @@
 # LX200
 Telescope Control
 
-Note that this is an in progress progect.  
+Note that this is an in progress project.  
 
 Currently Controls:
   Speed
