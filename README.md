@@ -1,20 +1,20 @@
 # LX200
-Telescope Control for a Meade LX200 Autostar telescope.  This is an ongoing project 
+Telescope Control for a Meade LX200 Autostar telescope.  This is an ongoing project.
 
 ## Currently Controls:
-  Speed
-  Movement
+  * Speed
+  * Movement
 
 ## Planned Features:
-  Zoom.
-  Tracking low earth orbit satellites - Tracking math is complete and tested, just need to integrate with telescope controls.
+  * Zoom.
+  * Tracking low earth orbit satellites - Tracking math is complete and tested, just need to integrate with telescope controls.
 
 
 
 
 ## Dependencies:
-  Kivy - Used for the interface to handle the commands
-  PySerial - Used to interface with telescope
+  * Kivy - Used for the interface to handle the commands
+  * PySerial - Used to interface with telescope
   
   
   
